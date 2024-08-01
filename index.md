@@ -1,28 +1,41 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Muhammad Abdullah's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Muhammad Abdullah
+Site Reliability Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">Email</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">malik.mo.abdullah@gmail.com</a>
+</div>
+<div id="webaddress">
+<a href="isaac@applesdofall.org">Linkedin</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">linkedin.com/in/mabdulah/</a>
+</div>
+<div id="webaddress">
+<a href="isaac@applesdofall.org">Phone</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">+92-313-4167747</a>
 </div>
 
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
+__CI/CD:__ Azure DevOps, GitHub Actions
 
-### Specialized in
+__IaC:__ Terraform, Azure Resource Manager (ARM) Templates, Bicep, Azure CLI, Azure Cloud Shell
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__Containerization:__ Docker, Kubernetes, Helm, Azure Kubernetes Service (AKS), Azure Container Instance (ACI), Azure Container Service
 
+__Scripting:__ Powershell, Bash scripting, YAML, XML, JSON, JQuery
 
-### Research interests
+__Storage & Analysis:__ ETL, Data Factory, Databricks, Synapse Analytics, Data Warehousing, SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Web Servers:__ Nginx, Apache, IIS
+
+__Networking & Security:__ FTP/SFTP, SMB, Azure Bastion, Firewall, Private Link, NAT Gateway, Hub and Spoke Topology, Identity and Access Management (IAM), Keycloak, SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check
+
+__System Administration:__ Windows, Unix-Linux, Patch Management, Dependency Packages (Azure Artifacts), User Account Management, Backup and Recovery Solutions
 
 
 ## Education
