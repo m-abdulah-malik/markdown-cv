@@ -5,15 +5,15 @@ title: Muhammad Abdullah's CV
 # Muhammad Abdullah
 Site Reliability Engineer
 
-<div id="email">
+<div id="webaddress">
 <a href="mailto:malik.mo.abdullah@gmail.com">Email</a>
 | <a href="mailto:malik.mo.abdullah@gmail.com">malik.mo.abdullah@gmail.com</a>
 </div>
-<div id="linkedin">
+<div id="webaddress">
 <a href="https://www.linkedin.com/in/mabdulah/">Linkedin</a>
 | <a href="https://www.linkedin.com/in/mabdulah/">linkedin.com/in/mabdulah/</a>
 </div>
-<div id="phone">
+<div id="webaddress">
 <a href="https://www.linkedin.com/in/mabdulah/">Phone</a>
 | <a href="https://www.linkedin.com/in/mabdulah/">+92-313-4167747</a>
 </div>
@@ -24,20 +24,26 @@ Site Reliability Engineer
 
 ### Automation & CI/CD
 Azure DevOps, GitHub Actions, Argo-CD for GitOps
+
 PowerShell, Bash scripting, YAML
+
 Terraform, Azure Resource Manager (ARM) Templates, Bicep
 
 ### Cloud & Infrastructure
 Azure Kubernetes Service (AKS), Kubernetes, Helm, Docker, Azure Container Instance (ACI)
+
 ExpressRoute, Azure Firewall, Azure Bastion, Private Link, Azure Route Server, NAT Gateway
+
 Data Factory, Databricks, Synapse Analytics, Data Warehousing, ETL, Data Lake Storage
 
 ### Security & Compliance
 SSL/TLS, FTP/SFTP, SMB, OIDC (Workload or Managed Identity), Keycloak
+
 SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check, MITM Proxy
 
 ### System Admin & Ops
 Windows, Unix-Linux, Packages Dependency & Management (Azure Artifacts)
+
 Azure Monitor, Azure Site Recovery, Velero, Database Migration Service
 
 ### Database & Storage
