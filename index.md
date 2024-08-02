@@ -5,37 +5,50 @@ title: Muhammad Abdullah's CV
 # Muhammad Abdullah
 Site Reliability Engineer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">Email</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">malik.mo.abdullah@gmail.com</a>
+<div id="email">
+<a href="mailto:malik.mo.abdullah@gmail.com">Email</a>
+| <a href="mailto:malik.mo.abdullah@gmail.com">malik.mo.abdullah@gmail.com</a>
 </div>
-<div id="webaddress">
-<a href="isaac@applesdofall.org">Linkedin</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">linkedin.com/in/mabdulah/</a>
+<div id="linkedin">
+<a href="https://www.linkedin.com/in/mabdulah/">Linkedin</a>
+| <a href="https://www.linkedin.com/in/mabdulah/">linkedin.com/in/mabdulah/</a>
 </div>
-<div id="webaddress">
-<a href="isaac@applesdofall.org">Phone</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">+92-313-4167747</a>
+<div id="phone">
+<a href="https://www.linkedin.com/in/mabdulah/">Phone</a>
+| <a href="https://www.linkedin.com/in/mabdulah/">+92-313-4167747</a>
 </div>
 
 
-## Skills
 
-__CI/CD:__ Azure DevOps, GitHub Actions
+## Skills & Tools
 
-__IaC:__ Terraform, Azure Resource Manager (ARM) Templates, Bicep, Azure CLI, Azure Cloud Shell
+### Automation & CI/CD
+Azure DevOps, GitHub Actions, Argo-CD for GitOps
+PowerShell, Bash scripting, YAML
+Terraform, Azure Resource Manager (ARM) Templates, Bicep
 
-__Containerization:__ Docker, Kubernetes, Helm, Azure Kubernetes Service (AKS), Azure Container Instance (ACI), Azure Container Service
+### Cloud & Infrastructure
+Azure Kubernetes Service (AKS), Kubernetes, Helm, Docker, Azure Container Instance (ACI)
+ExpressRoute, Azure Firewall, Azure Bastion, Private Link, Azure Route Server, NAT Gateway
+Data Factory, Databricks, Synapse Analytics, Data Warehousing, ETL, Data Lake Storage
 
-__Scripting:__ Powershell, Bash scripting, YAML, XML, JSON, JQuery
+### Security & Compliance
+SSL/TLS, FTP/SFTP, SMB, OIDC (Workload or Managed Identity), Keycloak
+SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check, MITM Proxy
 
-__Storage & Analysis:__ ETL, Data Factory, Databricks, Synapse Analytics, Data Warehousing, SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
+### System Admin & Ops
+Windows, Unix-Linux, Packages Dependency & Management (Azure Artifacts)
+Azure Monitor, Azure Site Recovery, Velero, Database Migration Service
 
-__Web Servers:__ Nginx, Apache, IIS
+### Database & Storage
+SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
 
-__Networking & Security:__ FTP/SFTP, SMB, Azure Bastion, Firewall, Private Link, NAT Gateway, Hub and Spoke Topology, Identity and Access Management (IAM), Keycloak, SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check
+### Monitoring & Logging
+Prometheus, Grafana, Log Analytics, AMPLS private monitoring
 
-__System Administration:__ Windows, Unix-Linux, Patch Management, Dependency Packages (Azure Artifacts), User Account Management, Backup and Recovery Solutions
+### Additional
+APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
+
 
 
 ## Education
