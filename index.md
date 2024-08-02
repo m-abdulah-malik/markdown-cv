@@ -21,6 +21,7 @@ Site Reliability Engineer
 ## Skills & Tools
 
 
+
 ### Automation & CI/CD
 Azure DevOps, GitHub Actions, Argo-CD for GitOps
 
@@ -47,6 +48,7 @@ SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
 Prometheus, Grafana, Log Analytics, AMPLS private monitoring
 ### Additional
 APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
+
 
 
 
