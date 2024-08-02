@@ -18,7 +18,6 @@ Site Reliability Engineer
 | <a href="https://www.linkedin.com/in/mabdulah/">+92-313-4167747</a>
 </div>
 
-
 ## Skills & Tools
 
 
