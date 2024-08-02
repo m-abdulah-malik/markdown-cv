@@ -18,9 +18,9 @@ Site Reliability Engineer
 | <a href="https://www.linkedin.com/in/mabdulah/">+92-313-4167747</a>
 </div>
 
+
+
 ## Skills & Tools
-
-
 
 ### Automation & CI/CD
 Azure DevOps, GitHub Actions, Argo-CD for GitOps
@@ -62,44 +62,52 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 `Feb 2022 - Nov 2022`
 DevOps Engineer, *Royal Cyber Inc.*, Remote, Pakistan
 
+-
+*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
-*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application featuring 
+featuring backend microservices, Azure CDN Front Door for micro-frontends, and Azure 
 
-backend microservices, Azure CDN Front Door for micro-frontends, and Azure Function Apps to handle 
+Function Apps to handle event-driven workloads such as payroll, payments, and customer 
 
-event-driven workloads such as payroll, payments, and customer details. Oversaw the core platform 
+details. Oversaw the core platform part of the application while coordinating with 
 
-part of the application while coordinating with other SREs managing the fragment micro-frontends 
+other SREs managing the fragment micro-frontends such as HCM and Payments.
 
-such as HCM and Payments.
+*Automation & CI/CD:* Automated deployment and release processes for the web application 
 
-*Automation & CI/CD:* Automated deployment and release processes for the web application using Azure 
+using Azure DevOps, Terraform, and Ansible. Integrated OWASP Dependency Check, SonarQube, 
 
-DevOps, Terraform, and Ansible. Integrated OWASP Dependency Check, SonarQube, and Defect Dojo into 
+and Defect Dojo into CI/CD pipelines to enhance security and maintainability, ensuring 
 
-CI/CD pipelines to enhance security and maintainability, ensuring high service availability.
+high service availability.
 
-*Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) for scalable 
+*Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) 
 
-management. Utilized AKS features such as autoscaling and managed clusters, configured Kubernetes 
+for scalable management. Utilized AKS features such as autoscaling and managed clusters, 
 
-secrets, and used Helm for application deployment to ensure resilience and efficiency.
+configured Kubernetes secrets, and used Helm for application deployment to ensure 
 
-*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate the provisioning 
+resilience and efficiency.
 
-and management of Azure resources, promoting consistency and repeatability across environments.
+*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate 
 
-*Networking & Security:* Implemented networking solutions for the web application, including Azure App 
+the provisioning and management of Azure resources, promoting consistency and repeatability 
 
-registrations, VPC, VPN, and DNS. Managed identity and access for Azure services using Keycloak, 
+across environments.
 
-establishing robust security measures to protect data and ensure compliance.
+*Networking & Security:* Implemented networking solutions for the web application, including 
 
-*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web application, 
+Azure App registrations, VPC, VPN, and DNS. Managed identity and access for Azure services 
 
-ensuring optimal performance. Managed SQL databases (MySQL) for consistency in data integrity and NoSQL 
+using Keycloak, establishing robust security measures to protect data and ensure compliance.
 
-databases (MongoDB) for fast access, acknowledging the trade-offs between speed and consistency.
+*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web 
+
+application, ensuring optimal performance. Managed SQL databases (MySQL) for consistency in 
+
+data integrity and NoSQL databases (MongoDB) for fast access, acknowledging the trade-offs 
+
+between speed and consistency.
 
 
 
