@@ -116,6 +116,7 @@ between speed and consistency.
 
 
 `Feb 2022 - Nov 2022`
+
 - Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
 -*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
