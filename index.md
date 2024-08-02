@@ -62,8 +62,7 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 `Feb 2022 - Nov 2022`
 DevOps Engineer, *Royal Cyber Inc.*, Remote, Pakistan
 
--
-*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
+-*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
 featuring backend microservices, Azure CDN Front Door for micro-frontends, and Azure 
 
@@ -73,7 +72,7 @@ details. Oversaw the core platform part of the application while coordinating wi
 
 other SREs managing the fragment micro-frontends such as HCM and Payments.
 
-*Automation & CI/CD:* Automated deployment and release processes for the web application 
+-*Automation & CI/CD:* Automated deployment and release processes for the web application 
 
 using Azure DevOps, Terraform, and Ansible. Integrated OWASP Dependency Check, SonarQube, 
 
@@ -81,7 +80,7 @@ and Defect Dojo into CI/CD pipelines to enhance security and maintainability, en
 
 high service availability.
 
-*Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) 
+-*Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) 
 
 for scalable management. Utilized AKS features such as autoscaling and managed clusters, 
 
@@ -89,19 +88,19 @@ configured Kubernetes secrets, and used Helm for application deployment to ensur
 
 resilience and efficiency.
 
-*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate 
+-*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate 
 
 the provisioning and management of Azure resources, promoting consistency and repeatability 
 
 across environments.
 
-*Networking & Security:* Implemented networking solutions for the web application, including 
+-*Networking & Security:* Implemented networking solutions for the web application, including 
 
 Azure App registrations, VPC, VPN, and DNS. Managed identity and access for Azure services 
 
 using Keycloak, establishing robust security measures to protect data and ensure compliance.
 
-*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web 
+-*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web 
 
 application, ensuring optimal performance. Managed SQL databases (MySQL) for consistency in 
 
@@ -111,6 +110,26 @@ between speed and consistency.
 
 
 
+`Dec 2022 - Present`
+Site Reliability Engineer, *Atlas HXM*, Remote, Pakistan
+
+-*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
+
+utilizing tools like Azure DevOps and GitHub Actions to streamline development workflows and 
+
+automate build and release processes.
+
+-*Container Orchestration:* Managed the deployment of microservices in Azure Kubernetes Service 
+
+(AKS) clusters, ensuring efficient scaling and resource management while adhering to the best 
+
+practices for containerization and orchestration.
+
+-*Collaboration and Agile Practices:* Worked closely with development teams to integrate 
+
+automated testing and deployment strategies into the development lifecycle, promoting a 
+
+culture of collaboration and continuous improvement within an Agile framework.
 
 ## Education
 
