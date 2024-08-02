@@ -19,7 +19,6 @@ Site Reliability Engineer
 </div>
 
 
-
 ## Skills & Tools
 
 *Automation & CI/CD*
@@ -63,11 +62,10 @@ Prometheus, Grafana, Log Analytics, AMPLS private monitoring
 APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 
 
-
 ## Experience
 
-`Feb 2022 - Nov 2022`
-DevOps Engineer, *Atlas HXM*, Remote, Pakistan
+`Dec 2022 - Present`
+- DevOps Engineer, *Atlas HXM*, Remote, Pakistan
 
 -*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
@@ -117,8 +115,8 @@ between speed and consistency.
 
 
 
-`Dec 2022 - Present`
-Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
+`Feb 2022 - Nov 2022`
+- Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
 -*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
 
@@ -139,14 +137,12 @@ automated testing and deployment strategies into the development lifecycle, prom
 culture of collaboration and continuous improvement within an Agile framework.
 
 
-
 ## Education
 
 `Sep 2020 - Apr 2024`
 __University of Engineering and Technology, Lahore__
 
 Bachelor of Engineering - BE, Electrical Engineering
-
 
 
 ## Certifications
@@ -156,7 +152,6 @@ Bachelor of Engineering - BE, Electrical Engineering
 
 `Jul 2024 - Jul 2025`
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/8F914B6D3B21F287?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Solutions Architect Expert</a>
-
 
 
 ## Other Badges
