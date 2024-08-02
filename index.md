@@ -22,37 +22,39 @@ Site Reliability Engineer
 
 ## Skills & Tools
 
-### Automation & CI/CD
+*Automation & CI/CD*
+
 Azure DevOps, GitHub Actions, Argo-CD for GitOps
 
 PowerShell, Bash scripting, YAML
 
 Terraform, Azure Resource Manager (ARM) Templates, Bicep
 
-### Cloud & Infrastructure
+*Cloud & Infrastructure*
+
 Azure Kubernetes Service (AKS), Kubernetes, Helm, Docker, Azure Container Instance (ACI)
 
 ExpressRoute, Azure Firewall, Azure Bastion, Private Link, Azure Route Server, NAT Gateway
 
 Data Factory, Databricks, Synapse Analytics, Data Warehousing, ETL, Data Lake Storage
 
-### Security & Compliance
+*Security & Compliance*
 SSL/TLS, FTP/SFTP, SMB, OIDC (Workload or Managed Identity), Keycloak
 
 SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check, MITM Proxy
 
-### System Admin & Ops
+*System Admin & Ops*
 Windows, Unix-Linux, Packages Dependency & Management (Azure Artifacts)
 
 Azure Monitor, Azure Site Recovery, Velero, Database Migration Service
 
-### Database & Storage
+*Database & Storage*
 SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
 
-### Monitoring & Logging
+*Monitoring & Logging*
 Prometheus, Grafana, Log Analytics, AMPLS private monitoring
 
-### Additional
+*Additional*
 APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 
 
@@ -60,7 +62,7 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 ## Experience
 
 `Feb 2022 - Nov 2022`
-DevOps Engineer, *Royal Cyber Inc.*, Remote, Pakistan
+DevOps Engineer, *Atlas HXM*, Remote, Pakistan
 
 -*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
@@ -111,7 +113,7 @@ between speed and consistency.
 
 
 `Dec 2022 - Present`
-Site Reliability Engineer, *Atlas HXM*, Remote, Pakistan
+Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
 -*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
 
@@ -131,20 +133,20 @@ automated testing and deployment strategies into the development lifecycle, prom
 
 culture of collaboration and continuous improvement within an Agile framework.
 
+
+
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2024`
+__University of Engineering and Technology, Lahore__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Bachelor of Engineering - BE, Electrical Engineering
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
 
-- Fellow
+## Certifications
+
+
 
 
 
