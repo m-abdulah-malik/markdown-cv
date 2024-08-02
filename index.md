@@ -39,19 +39,23 @@ ExpressRoute, Azure Firewall, Azure Bastion, Private Link, Azure Route Server, N
 Data Factory, Databricks, Synapse Analytics, Data Warehousing, ETL, Data Lake Storage
 
 *Security & Compliance*
+
 SSL/TLS, FTP/SFTP, SMB, OIDC (Workload or Managed Identity), Keycloak
 
 SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check, MITM Proxy
 
 *System Admin & Ops*
+
 Windows, Unix-Linux, Packages Dependency & Management (Azure Artifacts)
 
 Azure Monitor, Azure Site Recovery, Velero, Database Migration Service
 
 *Database & Storage*
+
 SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
 
 *Monitoring & Logging*
+
 Prometheus, Grafana, Log Analytics, AMPLS private monitoring
 
 *Additional*
@@ -64,7 +68,7 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 `Feb 2022 - Nov 2022`
 DevOps Engineer, *Atlas HXM*, Remote, Pakistan
 
--*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
+- *Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
 featuring backend microservices, Azure CDN Front Door for micro-frontends, and Azure 
 
@@ -74,7 +78,7 @@ details. Oversaw the core platform part of the application while coordinating wi
 
 other SREs managing the fragment micro-frontends such as HCM and Payments.
 
--*Automation & CI/CD:* Automated deployment and release processes for the web application 
+- *Automation & CI/CD:* Automated deployment and release processes for the web application 
 
 using Azure DevOps, Terraform, and Ansible. Integrated OWASP Dependency Check, SonarQube, 
 
@@ -82,7 +86,7 @@ and Defect Dojo into CI/CD pipelines to enhance security and maintainability, en
 
 high service availability.
 
--*Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) 
+- *Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) 
 
 for scalable management. Utilized AKS features such as autoscaling and managed clusters, 
 
@@ -90,19 +94,19 @@ configured Kubernetes secrets, and used Helm for application deployment to ensur
 
 resilience and efficiency.
 
--*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate 
+- *IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate 
 
 the provisioning and management of Azure resources, promoting consistency and repeatability 
 
 across environments.
 
--*Networking & Security:* Implemented networking solutions for the web application, including 
+- *Networking & Security:* Implemented networking solutions for the web application, including 
 
 Azure App registrations, VPC, VPN, and DNS. Managed identity and access for Azure services 
 
 using Keycloak, establishing robust security measures to protect data and ensure compliance.
 
--*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web 
+- *Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web 
 
 application, ensuring optimal performance. Managed SQL databases (MySQL) for consistency in 
 
@@ -115,19 +119,19 @@ between speed and consistency.
 `Dec 2022 - Present`
 Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
--*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
+- *Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
 
 utilizing tools like Azure DevOps and GitHub Actions to streamline development workflows and 
 
 automate build and release processes.
 
--*Container Orchestration:* Managed the deployment of microservices in Azure Kubernetes Service 
+- *Container Orchestration:* Managed the deployment of microservices in Azure Kubernetes Service 
 
 (AKS) clusters, ensuring efficient scaling and resource management while adhering to the best 
 
 practices for containerization and orchestration.
 
--*Collaboration and Agile Practices:* Worked closely with development teams to integrate 
+- *Collaboration and Agile Practices:* Worked closely with development teams to integrate 
 
 automated testing and deployment strategies into the development lifecycle, promoting a 
 
@@ -146,54 +150,25 @@ Bachelor of Engineering - BE, Electrical Engineering
 
 ## Certifications
 
+`July 2024 - July 2025`
+- Microsoft Certified: Azure Administrator Associate
+
+`July 2024 - July 2025`
+- Microsoft Certified: Azure Solutions Architect Expert
 
 
 
+## Other Badges
 
-## Awards
+`August 2024`
+- Udemy: Github Actions for CI/CD DevOps Pipelines
 
-`2012`
-President, *Royal Society*, London, UK
+`August 2024`
+- Udemy: Advanced Kubernetes/AKS Network & Infrastructure
 
-Associate, *French Academy of Science*, Paris, France
+`August 2024`
+- Udemy: Deploy Infra in the Cloud using Terraform
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`July 2024`
+- Educative: Scalability & System Design for Developers
 
