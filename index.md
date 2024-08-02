@@ -19,8 +19,8 @@ Site Reliability Engineer
 </div>
 
 
-
 ## Skills & Tools
+
 
 ### Automation & CI/CD
 Azure DevOps, GitHub Actions, Argo-CD for GitOps
@@ -28,30 +28,24 @@ Azure DevOps, GitHub Actions, Argo-CD for GitOps
 PowerShell, Bash scripting, YAML
 
 Terraform, Azure Resource Manager (ARM) Templates, Bicep
-
 ### Cloud & Infrastructure
 Azure Kubernetes Service (AKS), Kubernetes, Helm, Docker, Azure Container Instance (ACI)
 
 ExpressRoute, Azure Firewall, Azure Bastion, Private Link, Azure Route Server, NAT Gateway
 
 Data Factory, Databricks, Synapse Analytics, Data Warehousing, ETL, Data Lake Storage
-
 ### Security & Compliance
 SSL/TLS, FTP/SFTP, SMB, OIDC (Workload or Managed Identity), Keycloak
 
 SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check, MITM Proxy
-
 ### System Admin & Ops
 Windows, Unix-Linux, Packages Dependency & Management (Azure Artifacts)
 
 Azure Monitor, Azure Site Recovery, Velero, Database Migration Service
-
 ### Database & Storage
 SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
-
 ### Monitoring & Logging
 Prometheus, Grafana, Log Analytics, AMPLS private monitoring
-
 ### Additional
 APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 
