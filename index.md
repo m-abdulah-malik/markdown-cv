@@ -64,7 +64,7 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 
 ## Experience
 
-`Dec22-Present`
+`Dec22 - Present`
 - DevOps Engineer, *Atlas HXM*, Remote, Pakistan
 
 -*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
@@ -115,7 +115,7 @@ data integrity and NoSQL databases (MongoDB) for fast access, acknowledging the 
 
 
 
-`Feb22-Nov22`
+`Feb22 - Nov22`
 
 - Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
@@ -140,7 +140,7 @@ culture of collaboration and continuous improvement within an Agile framework.
 
 ## Education
 
-`Sep20-Apr24`
+`Sep20 - Apr24`
 *University of Engineering and Technology, Lahore*
 
 Bachelor of Engineering - BE, Electrical Engineering
@@ -148,10 +148,10 @@ Bachelor of Engineering - BE, Electrical Engineering
 
 ## Certifications
 
-`Jul24-Jul25`
+`Jul24 - Jul25`
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/49BA2D40200889BE?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Administrator Associate</a>
 
-`Jul24-Jul25`
+`Jul24 - Jul25`
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/8F914B6D3B21F287?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Solutions Architect Expert</a>
 
 
