@@ -141,7 +141,7 @@ culture of collaboration and continuous improvement within an Agile framework.
 ## Education
 
 `Sep20-Apr24`
-__University of Engineering and Technology, Lahore__
+*University of Engineering and Technology, Lahore*
 
 Bachelor of Engineering - BE, Electrical Engineering
 
