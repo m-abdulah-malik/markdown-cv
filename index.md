@@ -111,7 +111,7 @@ application, ensuring optimal performance. Managed SQL databases (MySQL) for con
 
 data integrity and NoSQL databases (MongoDB) for fast access, acknowledging the trade-offs 
 
-between speed and consistency.
+- between speed and consistency.
 
 
 
