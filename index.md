@@ -64,7 +64,7 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 
 ## Experience
 
-`Dec 2022 - Present`
+`Dec22-Present`
 - DevOps Engineer, *Atlas HXM*, Remote, Pakistan
 
 -*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
@@ -115,7 +115,7 @@ data integrity and NoSQL databases (MongoDB) for fast access, acknowledging the 
 
 
 
-`Feb 2022 - Nov 2022`
+`Feb22-Nov22`
 
 - Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
@@ -140,7 +140,7 @@ culture of collaboration and continuous improvement within an Agile framework.
 
 ## Education
 
-`Sep 2020 - Apr 2024`
+`Sep20-Apr24`
 __University of Engineering and Technology, Lahore__
 
 Bachelor of Engineering - BE, Electrical Engineering
@@ -148,24 +148,24 @@ Bachelor of Engineering - BE, Electrical Engineering
 
 ## Certifications
 
-`Jul 2024 - Jul 2025`
+`Jul24-Jul25`
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/49BA2D40200889BE?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Administrator Associate</a>
 
-`Jul 2024 - Jul 2025`
+`Jul24-Jul25`
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/8F914B6D3B21F287?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Solutions Architect Expert</a>
 
 
 ## Other Badges
 
-`August 2024`
+`Aug 2024`
 - Udemy: Github Actions for CI/CD DevOps Pipelines
 
-`August 2024`
+`Aug 2024`
 - Udemy: Advanced Kubernetes/AKS Network & Infrastructure
 
-`August 2024`
+`Aug 2024`
 - Udemy: Deploy Infra in the Cloud using Terraform
 
-`July 2024`
+`Jul 2024`
 - Educative: Scalability & System Design for Developers
 
