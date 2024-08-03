@@ -65,7 +65,7 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 ## Experience
 
 `Dec22 - Present`
-- DevOps Engineer, *Atlas HXM*, Remote, Pakistan
+- Site Reliability Engineer, *Atlas HXM*, Remote, Pakistan
 
 -*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
@@ -117,7 +117,7 @@ data integrity and NoSQL databases (MongoDB) for fast access, acknowledging the 
 
 `Feb22 - Nov22`
 
-- Site Reliability Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
+- DevOps Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
 -*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
 
@@ -158,13 +158,13 @@ Bachelor of Engineering - BE, Electrical Engineering
 ## Other Badges
 
 `Aug 2024`
-- Udemy: Github Actions for CI/CD DevOps Pipelines
+- <a href="https://www.udemy.com/certificate/UC-de049177-0c42-4b6a-9762-f45b31616baa/">Udemy: Github Actions for CI/CD DevOps Pipelines</a>
 
 `Aug 2024`
-- Udemy: Advanced Kubernetes/AKS Network & Infrastructure
+- <a href="https://www.udemy.com/certificate/UC-c6d98118-f265-4d44-be77-06ec18693a82/">Udemy: Advanced Kubernetes/AKS Network & Infrastructure</a>
 
 `Aug 2024`
-- Udemy: Deploy Infra in the Cloud using Terraform
+- <a href="https://www.udemy.com/certificate/UC-9eeb0992-36cf-4fd9-99ed-2d69d7c1a1f2/">Udemy: Deploy Infra in the Cloud using Terraform</a>
 
 `Jul 2024`
 - Educative: Scalability & System Design for Developers
