@@ -23,43 +23,45 @@ Site Reliability Engineer
 
 *Automation & CI/CD*
 
-Azure DevOps, GitHub Actions, Argo-CD for GitOps
+GitHub Actions, AWS CodePipeline, GitLab CI, ArgoCD for GitOps
 
 PowerShell, Bash scripting, YAML
 
-Terraform, Azure Resource Manager (ARM) Templates, Bicep
+Terraform, AWS CloudFormation, CDK
 
 *Cloud & Infrastructure*
 
-Azure Kubernetes Service (AKS), Kubernetes, Helm, Docker, Azure Container Instance (ACI)
+Amazon EKS, Kubernetes, Helm, Docker, AWS Fargate
 
-ExpressRoute, Azure Firewall, Azure Bastion, Private Link, Azure Route Server, NAT Gateway
+AWS Transit Gateway, AWS WAF, AWS PrivateLink, AWS Route 53, AWS NAT Gateway
 
-Data Factory, Databricks, Synapse Analytics, Data Warehousing, ETL, Data Lake Storage
+AWS Data Pipeline, AWS Glue, Redshift, Athena, ETL, S3 Data Lake
 
 *Security & Compliance*
 
-SSL/TLS, FTP/SFTP, SMB, OIDC (Workload or Managed Identity), Keycloak
+SSL/TLS, FTP/SFTP, SMB, AWS IAM, AWS Secrets Manager
 
-SonarCloud, SonarQube, DefectDojo, OWASP Dependency Check, MITM Proxy
+SonarCloud, SonarQube, AWS Inspector, OWASP Dependency Check, AWS Shield
 
 *System Admin & Ops*
 
-Windows, Unix-Linux, Packages Dependency & Management (Azure Artifacts)
+Windows, Unix-Linux, AWS CodeArtifact, AWS Systems Manager
 
-Azure Monitor, Azure Site Recovery, Velero, Database Migration Service
-
+Amazon CloudWatch, AWS Backup, AWS DMS (Database Migration Service)
+  
 *Database & Storage*
 
-SQL (MySQL, Azure SQL Database), NoSQL (MongoDB, Cosmos DB)
-
+SQL (MySQL, Amazon RDS), NoSQL (DynamoDB, DocumentDB)
+  
 *Monitoring & Logging*
 
-Prometheus, Grafana, Log Analytics, AMPLS private monitoring
-
+Prometheus, Grafana, CloudWatch Logs, AWS X-Ray
+  
 *Additional*
 
-APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
+AWS Lambda, Amazon SQS, Amazon SNS, Amazon MQ, IAM Roles 
+
+AWS API Gateway, Cilium Network Policy, Karpenter for EKS
 
 
 ## Experience
@@ -67,69 +69,66 @@ APIM, AKS Calico enabled, Cilium Network Policy, IMDS, Karpenter for AKS
 `Dec22 - Present`
 - Site Reliability Engineer, *Atlas HXM*, Remote, Pakistan
 
--*Azure Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
+-*AWS Cloud Services:* Managed the infrastructure for an ASP Core .NET web application 
 
-featuring backend microservices, Azure CDN Front Door for micro-frontends, and Azure 
+featuring backend microservices, Amazon CloudFront for micro-frontends, and AWS Lambda 
 
-Function Apps to handle event-driven workloads such as payroll, payments, and customer 
+to handle event-driven workloads such as payroll, payments, and customer details. 
 
-details. Oversaw the core platform part of the application while coordinating with 
+Oversaw the core platform part of the application while coordinating with other SREs 
 
-other SREs managing the fragment micro-frontends such as HCM and Payments.
+managing the fragment micro-frontends such as HCM and Payments.
 
 -*Automation & CI/CD:* Automated deployment and release processes for the web application 
 
-using Azure DevOps, Terraform, and Ansible. Integrated OWASP Dependency Check, SonarQube, 
+using GitHub Actions, Terraform, and Ansible. Integrated OWASP Dependency Check, SonarQube, 
 
-and Defect Dojo into CI/CD pipelines to enhance security and maintainability, ensuring 
+and Defect Dojo into CI/CD pipelines to enhance security and maintainability, ensuring high 
 
-high service availability.
+service availability.
 
--*Containerization:* Deployed .NET backend microservices to Azure Kubernetes Service (AKS) 
+-*Containerization:* Deployed .NET backend microservices to Amazon EKS for scalable management. 
 
-for scalable management. Utilized AKS features such as autoscaling and managed clusters, 
+Utilized EKS features such as autoscaling and managed clusters, configured Kubernetes secrets, 
 
-configured Kubernetes secrets, and used Helm for application deployment to ensure 
+and used Helm for application deployment to ensure resilience and efficiency.
 
-resilience and efficiency.
+-*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate the 
 
--*IaC:* Implemented Infrastructure as Code using Terraform and GitHub Actions to automate 
+provisioning and management of AWS resources, promoting consistency and repeatability across 
 
-the provisioning and management of Azure resources, promoting consistency and repeatability 
-
-across environments.
+environments.
 
 -*Networking & Security:* Implemented networking solutions for the web application, including 
 
-Azure App registrations, VPC, VPN, and DNS. Managed identity and access for Azure services 
+AWS App registrations, VPC, VPN, and DNS. Managed identity and access for AWS services using 
 
-using Keycloak, establishing robust security measures to protect data and ensure compliance.
+AWS IAM, establishing robust security measures to protect data and ensure compliance.
 
--*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the web 
+-*Web & Db Management:* Configured and managed web servers (Nginx, Apache) to support the 
 
-application, ensuring optimal performance. Managed SQL databases (MySQL) for consistency in 
+web application, ensuring optimal performance. Managed SQL databases (MySQL) for consistency 
 
-data integrity and NoSQL databases (MongoDB) for fast access, acknowledging the trade-offs 
+in data integrity and NoSQL databases (DynamoDB) for fast access, acknowledging the trade-offs 
 
 - between speed and consistency.
 
 
-
-`Feb22 - Nov22`
+-`Feb22 - Nov22`
 
 - DevOps Engineer, *Royal Cyber Inc.*, Remote, Pakistan 
 
 -*Pipeline Development:* Designed and implemented CI/CD pipelines for various microservices, 
 
-utilizing tools like Azure DevOps and GitHub Actions to streamline development workflows and 
+utilizing tools like GitHub Actions to streamline development workflows and automate build 
 
-automate build and release processes.
+and release processes.
 
--*Container Orchestration:* Managed the deployment of microservices in Azure Kubernetes Service 
+-*Container Orchestration:* Managed the deployment of microservices in Amazon EKS clusters, 
 
-(AKS) clusters, ensuring efficient scaling and resource management while adhering to the best 
+ensuring efficient scaling and resource management while adhering to the best practices for 
 
-practices for containerization and orchestration.
+containerization and orchestration.
 
 -*Collaboration and Agile Practices:* Worked closely with development teams to integrate 
 
@@ -140,28 +139,16 @@ culture of collaboration and continuous improvement within an Agile framework.
 
 ## Education
 
-`Sep20 - Apr24`
+`Sept 2020`
 *University of Engineering and Technology, Lahore*
 
 Bachelor of Engineering - BE, Electrical Engineering
 
 
-## Certifications
-
-`Jul24 - Jul25`
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/49BA2D40200889BE?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Administrator Associate</a>
-
-`Jul24 - Jul25`
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/malik-7747/8F914B6D3B21F287?sharingId=5A0CB7F29959D19A">Microsoft Certified: Azure Solutions Architect Expert</a>
-
-
-## Other Badges
+## Badges
 
 `Aug 2024`
 - <a href="https://www.udemy.com/certificate/UC-de049177-0c42-4b6a-9762-f45b31616baa/">Udemy: Github Actions for CI/CD DevOps Pipelines</a>
-
-`Aug 2024`
-- <a href="https://www.udemy.com/certificate/UC-c6d98118-f265-4d44-be77-06ec18693a82/">Udemy: Advanced Kubernetes/AKS Network & Infrastructure</a>
 
 `Aug 2024`
 - <a href="https://www.udemy.com/certificate/UC-9eeb0992-36cf-4fd9-99ed-2d69d7c1a1f2/">Udemy: Deploy Infra in the Cloud using Terraform</a>
