@@ -111,7 +111,7 @@ web application, ensuring optimal performance. Managed SQL databases (MySQL) for
 
 in data integrity and NoSQL databases (DynamoDB) for fast access, acknowledging the trade-offs 
 
-- between speed and consistency.
+between speed and consistency.
 
 
 ## Experience
@@ -141,7 +141,7 @@ culture of collaboration and continuous improvement within an Agile framework.
 
 ## Education
 
-`Sept 2020`
+`Sep20 - May24`
 *University of Engineering and Technology, Lahore*
 
 Bachelor of Engineering - BE, Electrical Engineering
